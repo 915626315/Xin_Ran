@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
 encoding//src/resources/jdbc.properties=UTF-8
+encoding//web/index.jsp=UTF-8
 encoding/src=UTF-8
 encoding/web=UTF-8
